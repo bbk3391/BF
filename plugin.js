@@ -1,0 +1,1 @@
+console.log("Custom Rush PvP-AI mode plugin loaded!");

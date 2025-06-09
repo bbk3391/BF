@@ -1,0 +1,10 @@
+{
+    "id": "custom-rush-pvp-ai",
+    "name": "Custom Rush PvP-AI Mode",
+    "version": "1.0.0",
+    "description": "BF3 Engineers attack with EOD bots vs BC2 Engineers defending with M1 Garands and AT mines. PvP-AI supported.",
+    "entry": "plugin.js",
+    "scripts": {
+        "plugin.js": "console.log(\"Custom Rush PvP-AI mode plugin loaded!\");"
+    }
+}
